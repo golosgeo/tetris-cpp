@@ -1,0 +1,4 @@
+/home/georgii/Documents/Programs/PCC/the-game-pcc/cmake-build-debug/CMakeFiles/the_game_pcc.dir
+/home/georgii/Documents/Programs/PCC/the-game-pcc/cmake-build-debug/CMakeFiles/the_game_pcc_lib.dir
+/home/georgii/Documents/Programs/PCC/the-game-pcc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/georgii/Documents/Programs/PCC/the-game-pcc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
